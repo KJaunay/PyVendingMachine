@@ -1,0 +1,59 @@
+Changes made by Kieran Jaunay <k.jaunay@gmail.com>
+Vending Machine in Python. 
+
+
+09/03/2015 [v2.0.0] OFFICIAL RELEASE
+#FEATURES:
+-Easily adjusted item/coin/main menus
+-Nicer looking menus
+-Better input validation
+
+--------------OFFICIAL RELEASE v2.0----------------
+
+09/03/2015 [v1.1.0]
+#ADDED:
+-More comments to improve code analysis
+-readme
+-welcome and farewell messages
+#Changed:
+-Printing format to allow for better readability
+
+
+
+07/03/2015 [v1.0.2]
+#ADDED:
+-Two more items (apple, lollies)
+-Two more coin denominations (dollar, penny)
+-Printing method to support variable length main menu
+-Main menu dictionary to allow easier option appending
+#REMOVED:
+-hardcoded main menu
+#CHANGED:
+-Code ordering to be more intuitive
+
+
+
+06/03/2015 [v1.0.1]
+#ADDED:
+-printing method to support variable length coin/item menu
+-Coin/item dictionaries to allow additional options to be added easier
+#REMOVED:
+-hard coded coin/item menu
+#CHANGED:
+- Seperated "Return Change and EXIT" into two options
+
+
+06/03/2015 [v1.0.0] OFFICIAL RELEASE
+#FEATURES:
+-Hard coded menu
+-3 items to buy
+-3 coin denominations
+-ugly menus and console UI
+
+--------------OFFICIAL RELEASE v1.0-----------------
+
+05/03/2015 [v0.0.0] STARTED PROJECT
+#ADDED:
+-Basic menu options
+-No input validation
+-No formating 
